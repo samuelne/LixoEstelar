@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fundo\Fundo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Jogador\Jogador.cs" Line="194" Column="5" />
+      <File FileName="Assets\Scripts\Cena\ControleCena.cs" Line="11" Column="43" />
+      <File FileName="Assets\Scripts\Cena\ControleAnimacao.cs" Line="36" Column="32" />
+      <File FileName="Assets\Scripts\Fundo\Fundo.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\Lixo\LixoCriado.cs" Line="13" Column="17" />
+      <File FileName="Assets\Scripts\Lixo\RandomLixo.cs" Line="68" Column="9" />
+      <File FileName="Assets\Scripts\Jogador\VirtualJoystick.cs" Line="59" Column="34" />
+      <File FileName="Assets\Scripts\Jogador\Tiro.cs" Line="16" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
